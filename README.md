@@ -30,6 +30,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickykumarmlt&" alt="vickykumarmlt" /></p>
 
+ <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vickykumarmlt&show_icons=true&locale=en&theme=gotham" alt="vickykumarmlt | Stats" />
+
+</details>
+
+  ![Visitor Count](https://profile-counter.glitch.me/{vickykumarmlt}/count.svg)
+
 
 <h3 align="left">You can Buy me a coffee:</h3>
 <p><a href="https://www.buymeacoffee.com/vikramkumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vikramkumar" /></a></p><br><br>
